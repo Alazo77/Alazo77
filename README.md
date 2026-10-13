@@ -1,9 +1,9 @@
-## Hi there, I'm [Andres] 👋
+## Hi there, I'm Andres 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Digital+Marketing+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Performance+Marketing];Creativity+Storytelling]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 As a marketing professional passionate about sports and digital storytelling, I am all about creativity, strategy, and understanding what makes people tick. I’ve always been drawn to storytelling, social media, and anything that blends strategy with a bit of imagination. I’m still learning every day and love being part of projects that challenge me and help me grow. If you’re into marketing, creativity, or just cool ideas, I’d love to connect!
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Alazo77.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://alazo77.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -25,7 +25,7 @@ As a marketing professional passionate about sports and digital storytelling, I 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
+- [Ai campaign optimization]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
 ## 🛠️ Technical Skillset
